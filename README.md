@@ -12,9 +12,12 @@ The Tidal Music Player is a minimalist music player application developed using 
 - **Track Progress**: Displays the progress of the currently playing track, enabling users to track their listening progress.
 - **Responsive Design**: The player is designed to adapt to various screen sizes, ensuring a seamless experience on different devices.
 
-## Usage
+## Optimization Recommendations:
 
-To run the Tidal Music Player, simply open the `index.html` file in your preferred web browser.
+
+- Implement lazy loading for images and resources to improve initial load time.
+- Utilize code splitting to load only the necessary JavaScript for each page, reducing the initial bundle size.  
+- Minification and Compression: Minify JavaScript, CSS, and HTML files to reduce file sizes, and enable Gzip compression for faster content delivery.
 
 ## Technologies Used
 
@@ -30,4 +33,24 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize and expand upon this template to provide more specific details about your project. You can also add any additional sections or information that you find relevant.
+## How to Run:
+1. Clone this repository
+    ```bash
+    git clone https://github.com/brishy/tidal-music-player.git
+    cd tidal-music-player
+    ```
+
+2. Install dependencies
+    ```bash
+    npm install
+    ```
+
+3. Copy the example environment file
+    ```bash
+    cp .env.example .env
+    ```
+
+4. Run the app
+    ```bash
+    npm run dev
+    ```
