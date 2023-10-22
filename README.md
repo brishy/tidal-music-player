@@ -19,6 +19,11 @@ The Tidal Music Player is a minimalist music player application developed using 
 - Utilize code splitting to load only the necessary JavaScript for each page, reducing the initial bundle size.  
 - Minification and Compression: Minify JavaScript, CSS, and HTML files to reduce file sizes, and enable Gzip compression for faster content delivery.
 
+## Lessons Learned:
+- Building a music player app with vanilla React.js reinforced my understanding of fundamental React concepts and state management.
+- Utilizing SCSS for styling provided a structured and maintainable way to handle CSS in larger applications.  
+- Emphasizing component modularity and reusability led to cleaner and more maintainable code.
+
 ## Technologies Used
 
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
