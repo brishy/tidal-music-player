@@ -18,10 +18,10 @@ To run the Tidal Music Player, simply open the `index.html` file in your preferr
 
 ## Technologies Used
 
-- React.js ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-- SCSS ![SCSS](https://img.shields.io/badge/-SCSS-CD6799?style=for-the-badge&logo=sass&logoColor=white)
-- HTML ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+- ![SCSS](https://img.shields.io/badge/-SCSS-CD6799?style=for-the-badge&logo=sass&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 ## License
